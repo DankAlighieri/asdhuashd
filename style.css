@@ -1,0 +1,15 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.bartop {
+    position: absolute;
+    right: 1px;
+}
+    
+.down{
+    text-align: center;
+}
